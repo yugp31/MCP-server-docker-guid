@@ -434,3 +434,7 @@ Want to build your own MCP server? Check these resources:
 **💡 Tip:** Docker makes experimenting with MCP servers safe and simple — if something breaks, just remove the container and start fresh. No system-wide installations to worry about.
 
 ---
+
+## Contributing
+
+Found an issue or have improvements? Feel free to open an issue or submit a pull request!
