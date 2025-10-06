@@ -437,4 +437,13 @@ Want to build your own MCP server? Check these resources:
 
 ## Contributing
 
-Found an issue or have improvements? Feel free to open an issue or submit a pull request!
+Contributions are welcome! Feel free to:
+- Open issues for bugs or suggestions
+- Submit pull requests with improvements
+- Fork and create your own version
+
+This project is meant to be community-maintained and updated over time.
+
+## License
+
+This guide is released under the [MIT License](LICENSE). Use it freely, modify it, share it - no restrictions!
