@@ -251,7 +251,7 @@ Add the following configuration:
 **IMPORTANT:** Update these values:
 
 1. **Filesystem path:** Replace `/home/YOUR_USERNAME/mcp-workspace` with your actual workspace directory
-mkdir -p ~/mcp-workspace
+`mkdir -p ~/mcp-workspace`
 2. **API keys:** Replace `YOUR_BRAVE_API_KEY_HERE` and `YOUR_GOOGLE_MAPS_API_KEY_HERE` with your actual keys
 3. **For other MCP clients:** Check their documentation for configuration file locations
 
