@@ -446,4 +446,4 @@ This project is meant to be community-maintained and updated over time.
 
 ## License
 
-This guide is released under the [MIT License](LICENSE). Use it freely, modify it, share it - no restrictions!
+This guide is released under the [CC0 v1.0 License](LICENSE). Use it freely, modify it, share it - no restrictions!
